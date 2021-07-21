@@ -1,0 +1,12 @@
+azul
+preto
+amarelo
+vermelho
+cinza
+brnaco
+branco
+verde
+roxo
+lilas
+dourado
+prateado

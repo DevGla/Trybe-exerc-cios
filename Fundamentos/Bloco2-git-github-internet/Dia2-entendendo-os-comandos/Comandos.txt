@@ -1,0 +1,5 @@
+Repositório local e remoteo
+clone
+pull, branch, checkout, add e commit
+push, merge 
+revisando o fluxo

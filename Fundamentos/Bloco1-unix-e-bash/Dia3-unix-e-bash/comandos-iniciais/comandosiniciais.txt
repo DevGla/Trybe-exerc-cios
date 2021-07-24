@@ -1,0 +1,20 @@
+la
+la -a
+mkdir
+cd diretório
+cd
+cd ..
+pwd
+cp 
+mv
+rm
+rmdir
+cat
+less
+head
+tail
+grep
+wc
+whatis
+man
+apropos

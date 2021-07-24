@@ -8,3 +8,4 @@ html
 css
 empatia
 aprender a ouvir os outros!
+tudo nosso

@@ -1,15 +1,10 @@
 bash
 unix
-git
-java script
-java 
+idiota
+script java
+java
 phyton
 html
 css
-O que eu vou aprender na Trybe:
-
-- Unix
-- Bash
-- Git
-- HTML
-- CSS
+empati
+aprender a ouvir os outros!

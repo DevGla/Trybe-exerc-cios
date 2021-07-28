@@ -1,0 +1,39 @@
+.vid1{
+    color: red; 
+    background-color: blue;
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+    font-style: italic;
+}
+.vid2{
+    color: rosybrown;
+    background-color: black;
+    text-align: right;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.vid3{
+    color: salmon;
+    background-color: green;
+    text-align: left;
+    text-decoration: underline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    
+}
+.vid4{
+    color: slateblue;
+    background-color: grey;
+    text-align: initial;
+    text-decoration: underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.vid5{
+    color: tomato;
+    background-color: grey;
+    text-align: end;
+    text-decoration: underline;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+}

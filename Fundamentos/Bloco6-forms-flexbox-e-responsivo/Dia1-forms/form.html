@@ -30,17 +30,24 @@
            <br>
            <label for="input-cidade" required></label>Cidade:
            <input type="text" name="cidade" id="input-cidade" placeholder="Digite o nome da Cidade" maxlength="28"> <br> <br>
+          
+          <label for="input-estados" required></label>Estados:
+          <select name="estados" id="input-estados">
+            <option value="" disabled selected >Escolha seu estado</option>
+          </select> <br> <br>
+          
+          <label for="input-complemeto" required></label>Complemento:
+          <input type="radio" name="complemento" id="input-complemeto">Casa
 
-           <label for="input-estados">Estado:</label>
-            <select name="estados" id="input-estados" required> 
-              <option disabled selected value>Selecione seu estado</option>
-
-            </select>
-        
+          <label for="input-complemento2" required></label>
+          <input type="radio" name="complemento" id="input-complemeto2">Apartamento       
+        </fieldset>
+        <fieldset>
+          
         </fieldset>
       </form>
-    </main>
-    <script href="script.js"></script>
+    </main> 
+    <script src="script.js"></script>   
 </body>
 
 </html>
